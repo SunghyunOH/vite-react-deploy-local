@@ -12,3 +12,10 @@ Github Actions를 사용하지않고 package.json에 스크립트를 추가하�
 4. vite.config.js base 작성
 5. git 동기화 
 6. npm run deploy
+
+## 라우팅
+
+## Reference
+https://reactrouter.com/en/main/start/tutorial
+
+https://ko.vitejs.dev/guide/static-deploy.html#github-pages
